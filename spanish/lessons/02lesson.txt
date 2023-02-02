@@ -1,0 +1,15 @@
+# Leccion Segunda
+Hola!
+
+1. Hola! Yo soy Pedro.
+
+2. Y tu, como te llamas?
+
+3. Me llamo Clara.
+
+4. Soy francesa, y tu?
+
+5. Soy espanol, de Cordoba.
+
+6. Cual es tu numero de telefono?
+
