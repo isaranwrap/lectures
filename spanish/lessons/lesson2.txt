@@ -1,5 +1,5 @@
-# Leccion Segunda
 Hola!
+-----
 
 1. Hola! Yo soy Pedro.
 
@@ -12,4 +12,5 @@ Hola!
 5. Soy espanol, de Cordoba.
 
 6. Cual es tu numero de telefono?
+
 

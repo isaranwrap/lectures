@@ -1,6 +1,5 @@
-# Leccion Primera
-
 Un aperitivo
+------------
 
 1. Buenos dias, una tapa de tortilla, por favor.
 
